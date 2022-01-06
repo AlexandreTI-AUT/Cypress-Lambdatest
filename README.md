@@ -24,7 +24,7 @@ lambdatest-cypress init` - Create a sample LambdaTest Cypress configuration file
 
 # Configuration lambdatest-config.json file
 
-- auth: Firstly you need to set up your LambdaTest credentials that will help you run your test on the -lambdatest.com/dashboard - 
+- auth: Firstly you need to set up your LambdaTest credentials that will help you run your test on the -lambdatest.com/dashboard- 
 
 ```
   "lambdatest_auth": {
