@@ -8,7 +8,7 @@
 
 # Precondition
 
-- Node.js installed ` https://no-dejs.org/en/download/` 
+- Node.js installed - https://no-dejs.org/en/download/ - 
 
 # Cypress Install
 
